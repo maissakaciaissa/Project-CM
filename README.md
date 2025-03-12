@@ -1,7 +1,3 @@
-Voici une version améliorée de la description :  
-
----  
-
 # 🎥 Project-CM | Recherche de blocs vidéo optimisée  
 
 🚀 **Objectif** : Implémenter une **méthode hiérarchique** et la **méthode logarithmique** pour accélérer la recherche de blocs similaires dans une **séquence d’images vidéo**, réduisant ainsi le temps d’exécution de l’algorithme.  
